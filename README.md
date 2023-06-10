@@ -1,3 +1,3 @@
 # forkify project
 
-Recipe application with person preferences
+Recipe application with personal preferences
